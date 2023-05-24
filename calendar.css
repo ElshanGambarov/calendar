@@ -55,10 +55,10 @@ align-items: center;
     margin: 6px;
     
 }
-.dey{
+.day{
     margin: 10px;
 }
-.dey:hover{
+.day:hover{
     background-color: white;
     color: black;
     border: 3px solid white;
